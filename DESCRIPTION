@@ -1,0 +1,10 @@
+Package: HypothesisTest
+Type: Package
+Title: Hypothesis tests for variables in data
+Version: 0.1.0
+Author: Aishwarya Aljapur
+Maintainer: Aishwarya Aljapur <aishwaryaaljapur.1@gmail.com>
+Description: This package includes function which accepts data frame and performs Chisquare, anova and t test on the variable
+License: GPL-2
+Encoding: UTF-8
+LazyData: false
